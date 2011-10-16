@@ -1,5 +1,5 @@
-Basic 2D Graphics Algorithms
-----------------------------
+Basic 2D Graphics Algorithms using SDL
+--------------------------------------
 
 
 Line Drawing Algorithms
